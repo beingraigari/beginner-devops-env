@@ -243,3 +243,5 @@ Exit the swarm manager and destroy the cluster:
 $ vagrant destroy --force
 
     Terms
+
+  ![Screenshot](swarm-008.png)
